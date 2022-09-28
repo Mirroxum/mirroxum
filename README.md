@@ -1,6 +1,6 @@
 ## Hi there, I'm Igor ✌
 
-About
+I'm Python developer, I love doing Python backend.
 
 ### Languages and Tools
 
