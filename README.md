@@ -1,6 +1,7 @@
 ## Hi there, I'm Igor ✌
 
 I'm Python developer, I love doing Python backend.
+
 ![](https://komarev.com/ghpvc/?username=mirroxum)
 
 ### Languages and Tools
@@ -13,6 +14,6 @@ I'm Python developer, I love doing Python backend.
 
 ![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux) ![NGINX](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=Nginx) ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker) ![Gunicorn](https://img.shields.io/badge/Gunicorn-090909?style=for-the-badge&logo=Gunicorn)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mirroxum)](https://github.com/mirroxum/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mirroxum&theme=darkhub)](https://github.com/mirroxum/github-profile-trophy)
 ### Contact with me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=social&logo=Telegram)](https://t.me/mirroxis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=social&logo=LinkedIn)](https://www.linkedin.com/in/igor-saraev-468699121/)
