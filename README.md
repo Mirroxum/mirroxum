@@ -1,6 +1,6 @@
 ## Hi there, I'm Igor ✌
 
-I'm Python developer, I love doing Python backend.
+I'm Python developer.
 
 ![](https://komarev.com/ghpvc/?username=mirroxum)
 
