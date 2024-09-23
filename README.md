@@ -10,7 +10,7 @@ I'm Python developer.
 
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django) ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/fastapi-090909?style=for-the-badge&logo=fastapi)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)  ![SQLite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=SQLite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)  ![SQLite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=SQLite) ![MongoDB](https://img.shields.io/badge/Mongodb-090909?style=for-the-badge&logo=Mongodb)
 
 ![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux) ![NGINX](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=Nginx) ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker) ![Gunicorn](https://img.shields.io/badge/Gunicorn-090909?style=for-the-badge&logo=Gunicorn)
 
